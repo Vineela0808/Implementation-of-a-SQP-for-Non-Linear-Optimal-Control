@@ -1,0 +1,1 @@
+# Implementation-of-a-SQP-for-Non-Linear-Optimal-Control
